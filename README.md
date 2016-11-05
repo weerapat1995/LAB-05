@@ -15,44 +15,32 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic1.png)
 
   2.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+  ![](https://github.com/weerapat1995/LAB-05/blob/master/img/5.1.png)
  2.3). แก้โปรแกรมตามรูปด้านล่างนี้
  
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
-
+ 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
-
+  ![](https://github.com/weerapat1995/LAB-05/blob/master/img/5.2.png)
 
 
 
 
 ###คำถาม 5.1 เครื่องหมาย { }  ในคำสั่ง Console.WriteLine() มีลักษณะการใช้งานอย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ 
+ เป็นการกำหนดตำแหน่งที่จะดึงค่ามาแสดง โดยเริ่มจากตำแหน่ง 0,1,2,... ตามลำดับ 
+ 
 ###คำถาม 5.2  ถ้ามีการใช้ตัวเลขใน { } ที่กระโดด เช่น {0} {2} {3} จะใช้งานได้หรือไม่ อย่างไร จงอธิบาย
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+ สามารถใช้งานได้ โดยที่จะดึงค่าในตำแหน่งที่ 0 2 และ 3 มาแสดง 
  
  2.5). แก้โปรแกรมตามรูปด้านล่างนี้
 
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic3.png)
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ 
+  ![](https://github.com/weerapat1995/LAB-05/blob/master/img/5.3.png)
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
 
@@ -61,18 +49,12 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+  
+  ![](https://github.com/weerapat1995/LAB-05/blob/master/img/5.4.png)
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+ เป็นการกำหนดว่าจะให้แสดงค่าที่ตำแหน่งใดในหน้าแสดงผล โดยจะแสดงค่าจากตำแหน่งหลังมาตำแหน่งหน้า และ ตำแหน่งที่ 0 และ 1 คือตำแหน่งเดียวกัน
 
 
 4). ทดลองเรื่องการกำหนดรูปแบบของอาร์กิวเมนต์
@@ -81,11 +63,8 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic5.png)
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+  ![](https://github.com/weerapat1995/LAB-05/blob/master/img/5.5.png)
 
 5). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของอาร์กิวเมนต์
   5.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -93,6 +72,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic6.png)
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  ![](https://github.com/weerapat1995/LAB-05/blob/master/img/5.6.png)
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -100,6 +81,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  ![](https://github.com/weerapat1995/LAB-05/blob/master/img/5.7.png)
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
@@ -124,3 +107,5 @@
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
+
+![](https://github.com/weerapat1995/LAB-05/blob/master/img/5.8.png)
